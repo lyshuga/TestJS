@@ -9,7 +9,7 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Logging;
 
 namespace G
-{ //start
+{ //starts1
     public class Startup
     {
         public Startup(IHostingEnvironment env)
